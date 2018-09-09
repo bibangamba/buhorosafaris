@@ -1,0 +1,90 @@
+body {
+    background-color: #eeeeee;
+}
+
+#navbarMain {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+#brandName {
+    width: 525px;
+    text-align: center;
+    font: 2em sans-serif;
+}
+
+#mainContent {
+    background-color: white;
+}
+
+.nav a:hover {
+    color: white;
+}
+
+a.active {
+    color: white;
+}
+
+#footer {
+    background-color: #343a40;
+    height: 5px;
+    /*padding: 8px;*/
+    color: white;
+}
+
+.vr-white {
+    border-left: 1px solid white;
+    height: 18px;
+}
+
+#mainContent div.jumbotron {
+    background-color: transparent;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+}
+
+div.jumbotron.jumbotron-fluid div.container ul.list-group li.list-group-item {
+    background-color: transparent;
+}
+
+.gallery {
+    width: 650px;
+    margin: 8px;
+}
+
+ul {
+    list-style: none outside none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+li {
+    display: block;
+    float: left;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.centered-div {
+    width: 70%;
+    /*height: 100%;*/
+    /*background-color: white;*/
+    /*position: absolute;*/
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.gallery-colored-bg {
+    background-color: #DDDDDD;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
