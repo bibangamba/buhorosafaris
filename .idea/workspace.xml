@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f37fbc-47a9-4e06-bfce-588d83ace7bc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/andre.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/andre.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,11 +52,10 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="54" column="55" lean-forward="false" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+            <state relative-caret-position="104">
+              <caret line="71" column="20" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#3267#3274#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -265,7 +262,7 @@
       <workItem from="1536358479735" duration="13573000" />
       <workItem from="1536445565644" duration="28347000" />
       <workItem from="1536585684871" duration="120000" />
-      <workItem from="1537196201272" duration="2950000" />
+      <workItem from="1537196201272" duration="3115000" />
     </task>
     <task id="LOCAL-00001" summary="first prototype of buhoro website">
       <created>1536488847732</created>
@@ -274,11 +271,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536488847732</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="small changes to 'about' page content and correcting 'contact us' info">
+      <created>1537199925325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537199925329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44990000" />
+    <option name="totallyTimeSpent" value="45155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1551" height="839" extended-state="6" />
@@ -328,7 +332,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first prototype of buhoro website" />
-    <option name="LAST_COMMIT_MESSAGE" value="first prototype of buhoro website" />
+    <MESSAGE value="small changes to 'about' page content and correcting 'contact us' info" />
+    <option name="LAST_COMMIT_MESSAGE" value="small changes to 'about' page content and correcting 'contact us' info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,7 +376,6 @@
           <caret line="76" column="14" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="76" selection-end-column="14" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3267#3274#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -429,7 +433,6 @@
           <caret line="76" column="14" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="76" selection-end-column="14" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3267#3274#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -478,7 +481,6 @@
           <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3267#3274#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -585,11 +587,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="54" column="55" lean-forward="false" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+        <state relative-caret-position="104">
+          <caret line="71" column="20" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3267#3274#0" expanded="true" />
           </folding>
         </state>
       </provider>
